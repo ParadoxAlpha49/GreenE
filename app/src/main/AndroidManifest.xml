@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication01">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".afterprofiledashboard"></activity>
+        <activity android:name=".canada" />
+        <activity android:name=".nepal" />
+        <activity android:name=".uk" />
+        <activity android:name=".india" />
+        <activity android:name=".usa" />
+        <activity android:name=".Bangladesh" />
+        <activity android:name=".afterinformationcellActivity" />
+        <activity android:name=".About_us_Activity" />
+        <activity android:name=".CreatAccountactivity" />
+        <activity android:name=".AfterGreenEzone" />
+        <activity android:name=".AfterclickingBkash" />
+        <activity android:name=".AfterWithdraw" />
+        <activity android:name=".AfterRewards" />
+        <activity android:name=".AfterProfileActivity" />
+        <activity android:name=".afterLocation" />
+        <activity android:name=".Menu_Bar_Activity" />
+        <activity android:name=".After_Scan_Activity" />
+        <activity android:name=".After_login_activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

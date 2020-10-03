@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">GreenE: An app full of rewards</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="create_account">Create Account</string>
+    <string name="scan_the_code">Scan QR and BAR CODE</string>
+    <string name="after_scan">Scan and earn</string>
+    <string name="welcome_name">Welcome to Heaven</string>
+    <string name="results">Result</string>
+    <string name="Menu_Bar">Menu</string>
+    <string name="profile_bar">ProFile</string>
+    <string name="title_activity_after_menu_bar">After_menu_bar</string>
+    <string name="location">Location</string>
+    <string name="greenE_Zone">GreenE Zone</string>
+    <string name="information_cell">Information Cell</string>
+    <string name="about_us">About Us</string>
+    <string name="location_again">Click again to know your GreenE location</string>
+    <string name="profile_dashboard">Profile Dashboard</string>
+    <string name="rewards">Rewards</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="payPal">PayPal</string>
+    <string name="bkash">Bkash</string>
+    <string name="Skrill">Skrill</string>
+    <string name="neteller">Neteller</string>
+    <string name="coming_soon">Coming soon........</string>
+    <string name="bangladesh">Bangladesh </string>
+    <string name="usa">USA</string>
+    <string name="uk"> United Kingdom </string>
+    <string name="india">India</string>
+    <string name="nepal">Nepal</string>
+    <string name="canada">Canada</string>
+    <string name="fname">First Name: </string>
+    <string name="lname">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="birth_day">Birthday:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="C_password">Confirm Password: </string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="c_email">Confirm Email:</string>
+    <string name="about_us01">Team Asteroid- A painstaking team who are in a resolute mission of preserving the only treasure responsible for sustaining our planets. They tried to discover a gadgets which will resolve many challenges. GreenE - An apps the solution of preserving the inestimable asset. It will sustain proficient opportunities for the humans. It’s a handy genuine guidance people are looking for. An accessible mobile based app for the far-reaching ones. People from every corner of the country can easily be connected. It’s a thriving opportunities for those who are in quest of solutions. We tried our best to delivered people all sort of legitimate guidance that are actually needed to save our planet by reserving our safeguards. One of the most appealing part of this is the reward* which will captivate people a lot.one will get rewards by Picking up any trees through this apps. And bonus rewards is for those who will procure the trees which are on the fringe of extinction. They can withdraw their rewards anytime through the available apps. Our main target is to save our planet, retaining the lost fascinating greeneries at any cost and so the GreenE is here.</string>
+    <string name="information_cell01">NASA Models Show Trees Can Slow Increase of Atmospheric Carbon04.30.07
+
+Converting marginal agricultural land to forests may help slow the increase of carbon in the atmosphere, according to model-based results obtained by NASA scientists using space-based Earth observations and a state-of-the-art ecosystem model.
+
+croplandResearchers found that on a national basis, converting marginal agricultural lands into forests has the potential to remove hundreds of millions of tons of carbon dioxide from the atmosphere every year. This conversion, known as afforestation, could be used to partially off-set carbon emissions produced by burning fossil fuels.
+
+Left: croplands
+
+“In this study, we primarily wanted to know how much atmospheric carbon dioxide can be absorbed by plant growth over the next 20 to 30 years, if 25 percent or less of the Unites States croplands and rangelands was planted with native tree species,” said Christopher Potter, lead author of the paper in Climatic Change, published by Springer Science+Business Media, and a scientist from NASA Ames Research Center, in California\'s Silicon Valley. “Our findings showed that at least one-fifth of annual fossil fuel emission of carbon in the United States can be offset by planting new forests,” added Potter.
+
+Using plants and soil to store atmospheric carbon dioxide could become part of our country’s enhanced land use management. Generalized global estimates of stored carbon in afforested areas vary between temperate and tropical regions, but range as high as 4.5 billion tons of carbon per year, say scientists. These estimates are from model results, not actual measurements, and many questions, scientific and economic, must be answered before such land use practices are adopted.
+
+Researchers collected ‘greenness’ data from the Advanced Very High Resolution Radiometer (AVHRR) sensor on the NOAA Polar Operational Environmental Satellite (POES) and entered it into the NASA-Carnegie, Ames, Stanford Approach (CASA) carbon model at 8-kilometers’ spatial resolution. The model generated three different national maps that showed estimates of the amount of carbon absorbed by plants growing in current forests, croplands and rangelands.
+
+When the research was analyzed, the top five states identified as having a high carbon storage potential by converting croplands to newly developed forests were Texas, Minnesota, Iowa, Illinois and Missouri. The top five states with potential for converting rangelands or pastures were Texas, California, Montana, New Mexico and Colorado.
+
+Research suggested that the southeast region of the United States has the most favorable conditions for afforestation due to its subtropical climate. In addition, model results suggested that large areas of croplands in South Dakota, Minnesota and Wisconsin showed potential for carbon management and shouldn’t be underestimated.
+
+Past studies show that managed land use practices can be very productive in removing carbon from the air, but variability in forest growth conditions across diverse climate, soil, water and elevation zones make it difficult to predict outcomes. “If rainfall patterns change, for whatever reason, the risk of losing plants can go up in drought-stricken areas,” noted Potter.
+
+This work was made possible through funding by NASA as part of the long-term USDA Northern Global Change Research Program, which is dedicated to understanding how human-induced and natural changes affect our global environment.
+
+These and related studies appeared in the Springer Science+Business Media issues of Climatic Change, 2007.
+
+For further information, please visit:
+
+http://www.nasa.gov/home
+
+
+
+Ruth Marlaire
+NASA Ames Research Center
+ </string>
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
